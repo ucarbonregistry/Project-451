@@ -1,5 +1,7 @@
 # Project-451
 5.5 MW Bundled Wind Power Project in Gujarat, India
+__________
+
 ![](https://www.ucarbonregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.ucarbonregistry.io%2FRegistry%2FDetails%3Fid%3D4UYktxWi8ZSziDPfmh7NZg%253D%253D&size=2)
 
 Scale of the project activity Small Scale
